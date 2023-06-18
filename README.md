@@ -8,3 +8,6 @@ Must keep that api key to highly private and don't show them to anyone
 Install the required libraries 
     pip install -r requirements.txt
 run python app.py
+
+# Demo 
+![image](https://github.com/Mohd-Saddam/chatgpt-clone/assets/50014573/b089858e-2ce2-4057-bb42-833be5547206)
