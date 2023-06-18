@@ -10,4 +10,4 @@ Install the required libraries
 run python app.py
 
 # Demo 
-![image](https://github.com/Mohd-Saddam/chatgpt-clone/assets/50014573/b089858e-2ce2-4057-bb42-833be5547206)
+<img width="1415" alt="Screenshot 2023-06-19 at 1 13 33 AM" src="https://github.com/Mohd-Saddam/chatgpt-clone/assets/50014573/96320576-6db2-4909-874d-38922c1961fb">
